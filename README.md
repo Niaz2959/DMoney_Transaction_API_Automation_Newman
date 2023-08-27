@@ -15,3 +15,8 @@
 - Give following command:
 -  ```npm i```
 -  ```npm test```
+
+
+## D-Money API Documentation
+- https://documenter.getpostman.com/view/28923734/2s9Y5YShoK
+## Test Report
