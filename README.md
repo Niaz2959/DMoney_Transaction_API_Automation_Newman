@@ -20,3 +20,4 @@
 ## D-Money API Documentation
 - https://documenter.getpostman.com/view/28923734/2s9Y5YShoK
 ## Test Report
+![Report of Postman and Newman](https://github.com/Niaz2959/DMoney_Transaction_API_Automation_Newman/assets/55870435/478c44aa-8148-4fb0-97ba-bdb97b8a2479)
